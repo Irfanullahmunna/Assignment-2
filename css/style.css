@@ -1,0 +1,90 @@
+
+body {
+    background-color: #F7F8FA;
+    font-family: 'Alegreya', serif;
+}
+/* header  area */
+
+
+/* Navigation bar css class*/
+
+.nav-hover {
+    background-color: rgb(253, 252, 251);
+}
+.nav-hover:hover {
+    background-color: #F7F8FA;
+    box-shadow: 10px 10px 1000px rgb(253, 252, 251);
+}
+
+/* Carousol Area css class*/
+.text-size {
+    font-size: 50px;
+}
+.orange {
+    color: orange;
+}
+.black {
+    color: rgb(34, 28, 28);
+}
+.button-background {
+    background-color: rgb(133, 163, 13);
+    box-shadow: 10px 10px 100px orange;
+}
+
+.button-background:hover {
+    background-color: #F7F8FA;
+    box-shadow: 10px 10px 50px darkgray;
+}
+
+.head-image {
+    border-radius: 50%;
+    box-shadow: 10px 10px 50px gray;
+}
+.head-image:hover {
+    border-style: dashed;
+    box-shadow: 10px 10px 100px solid orange
+}
+
+
+/* Women Jacket Section css styyle */
+
+.card-customize {
+    text-shadow: orange;
+    border-radius: 20px;
+}
+.card-customize:hover {
+    box-shadow: 10px 10px 50px orange;
+    border-radius: 20px;
+}
+
+.card-img-sizing {
+    height: 400px;
+    background-color: rgb(143, 142, 142);
+    border-radius: 20px;
+}
+.jacket-card {
+    border: 0;
+}
+.jacket-card-footer {
+    background-color: white;
+    border: 0;
+}
+
+.center-item {
+    text-align: center;
+}
+
+/* Last Area css style */
+.last-card-customize {
+    box-shadow: 10px 10px 50px orange;
+    border-radius: 20px;
+}
+.last-card-customize:hover {
+    box-shadow: 5px 5px 50px #F7F8FA;
+}
+
+/* Extra Area css style */
+.footer-content {
+    text-align: center;
+    text-shadow: 20px solid orange;    
+}
